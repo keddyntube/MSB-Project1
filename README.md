@@ -11,4 +11,4 @@
 - ```<table></table>```:
 
 ## live sit link
-- (live sit link is )[ https://keddyntube.github.io/MSB-Project1/]
+- [live sit link is ](https://keddyntube.github.io/MSB-Project1/)
